@@ -22,7 +22,7 @@ Yumo-File-Caption 是一个基于通义千问多模态模型的命令行工具�
 1. 安装 Go 1.21 或更高版本
 2. 克隆本项目：
    ```
-   git clone https://github.com/your-username/yumo-file-caption.git
+   git clone https://github.com/UncleYumo/yumo-img-caption.git
    ```
 3. 进入项目目录并构建：
    ```
